@@ -4,8 +4,8 @@ var ne2 = document.getElementById("ne2");
 var vatromet = document.getElementById("vatromet");
 vatromet.style.display = 'none';
 ne === null || ne === void 0 ? void 0 : ne.addEventListener('click', function () {
-    var i = Math.floor(Math.random() * 500) + 1;
-    var j = Math.floor(Math.random() * 500) + 1;
+    var i = Math.floor(Math.random() * 300) + 1;
+    var j = Math.floor(Math.random() * 300) + 1;
     ne.style.left = i + "px";
     ne.style.top = j + "px";
     var currH = da.clientHeight;
