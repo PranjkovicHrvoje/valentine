@@ -1,0 +1,27 @@
+#ne{
+    background-color: red;
+    border-radius: 12px;
+    font-size: 32;
+    display: block;
+    position: absolute;
+}
+
+#ne2{
+    background-color: red;
+    border-radius: 12px;
+    font-size: 32;
+    display: block;
+    position: absolute;
+}
+
+#da{
+    background-color: greenyellow;
+    border-radius: 12px;
+    font-size: 32;
+    display: block;
+    position: absolute;
+}
+
+#pitanje{
+    font-size: large;
+}
